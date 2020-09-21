@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo": "^38.0.10",
+    "global": "^4.4.0"
+  }
+}
