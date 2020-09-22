@@ -38,6 +38,7 @@ function MainStackNav() {
         <Stack.Screen name='HomePage' component={HomePage} />
         <Stack.Screen name='Products' component={productCard} />
         <Stack.Screen name='Product Match' component={ProductMatch} />
+        <Stack.Screen name='Details' component={productDetail} />
       </Stack.Navigator>
     </NavigationContainer>
   )
