@@ -31,6 +31,21 @@ Another difficulty was getting the batch csv file ready. It appears that data pr
 
 
 ### Divya's Hacking:
+Having no experience with react native, I wanted to take this time to really dive into how to build my own app from scratch. I first did research on what type of app I wanted to build and looked into what type of simulator I should use to test it. After deciding on an online store app I started following a navigation tutorial that used expo cli. I spent a lot of time looking through different tutorials a looking at how they structured react components. It was really beneficial to learn about how you can structure components in different ways and it became clear that some ways are much more efficient than others.
+
+#### Difficulties:
+I wanted to be able to create a product page that had a list of product cards and each card could navigate to a details page. I ended up manually writing each card component but if I were to continue to work on it I would want to create a template for this component and have a back end with data to produce multiple cards with just the data and the card component. I created a product matrix file that would read data into multiple product cards so different cards could be shown, but I wasn't ultimately able to get it up an running but I kept the file in the directory. In the end I think the structure of the components in a react app was something I should have spent more time on rather than just hacking away, I know next time how to differently approach a React App project and to spend more time defininf the relationship of components and making sure I can continue to modularize and I expand my project
+
+#### Demo:
+<img src="./demo-imgs/detailspage.jpg" width="200">
+<img src="./demo-imgs/productpage.jpg" width="200">
+
+
+#### Tutorials Used:
+*  https://heartbeat.fritz.ai/getting-started-with-stack-navigator-using-react-navigation-5-in-react-native-and-expo-apps-4c516becaee1
+* https://codesource.io/e-commerce-app-with-react-native/
+* https://medium.com/@SeoJaeDuk/react-native-tutorial-and-e-commerce-ef6c79f7977
+* https://i-verve.com/blog/build-an-ecommerce-mobile-app-with-react-native
 
 ## Running the App:
 * `git clone`

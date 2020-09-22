@@ -2,12 +2,17 @@
 import React from 'react'
 import { StyleSheet, View, Text } from 'react-native'
 
-function productDetail() {
-  return (
-    <View style={styles.container}>
-      <Text style={styles.text}>Home Screen</Text>
-    </View>
-  )
+class productDetail extends React.Component {
+  
+  render (){
+    return (
+      <View style={styles.container}>
+        <Text style={styles.text}>Product Details</Text>
+      </View>
+    );
+
+  }
+ 
 }
 
 const styles = StyleSheet.create({
