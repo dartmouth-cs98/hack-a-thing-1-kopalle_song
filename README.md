@@ -38,7 +38,7 @@ I wanted to be able to create a product page that had a list of product cards an
 
 #### Demo:
 <img src="./demo-imgs/detailspage.jpg" width="200">
-<img src="./demo-imgs/product.jpg" width="200">
+<img src="./demo-imgs/productpage.jpg" width="200">
 
 
 #### Tutorials Used:
